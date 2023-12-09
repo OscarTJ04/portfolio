@@ -28,7 +28,7 @@ const ContactLeft = () => {
       <div className="flex flex-col gap-4">
         <h2 className="text-base uppercase font-titleFont mb-4">Find me on</h2>
         <div className="flex gap-4">
-          <a href="https://www.github.com/" target="_blank">
+          <a href="https://www.github.com/oscartj04" target="_blank">
             <span className="bannerIcon">
               <BsGithub />
             </span>
