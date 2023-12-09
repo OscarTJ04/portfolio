@@ -1,6 +1,6 @@
 import Title from "./Title";
 import ProjectsCard from "./ProjectsCard";
-import { projectOne, projectThree, projectTwo } from "../assets";
+import { projectThree, projectTwo, ansibleproject } from "../assets";
 import { FadeIn } from "./FadeIn";
 
 const Projects = () => {
@@ -18,10 +18,10 @@ const Projects = () => {
         </div>
         <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-6 xl:gap-14">
           <ProjectsCard
-            title="Configuration Management with Ansible"
-            des="Automated server configuration management with Ansible, streamlining deployments and reducing manual efforts. 
-            Demonstrated proficiency in maintaining consistent infrastructure across diverse environments."
-            src={projectOne}
+            title="Automated Web Application Deployment with Ansible"
+            des="Automated deployment and configuration of multi-tier web application environment, streamlining deployments and reducing manual efforts. 
+            combining infrastructure automation with application deployment."
+            src={ansibleproject}
           />
           <ProjectsCard
             title="Infrastructure as Code (IaC) with Terraform"
@@ -45,7 +45,7 @@ const Projects = () => {
             title="CI/CD Pipeline Automation with Jenkins"
             des="Designed and automated a robust CI/CD pipeline using Jenkins, enabling seamless integration, testing, and deployment of code changes. 
             Reduced deployment times by 40% and improved development team collaboration."
-            src={projectOne}
+            src={projectTwo}
           />
           <ProjectsCard
             title="Monitoring and Logging Stack"
