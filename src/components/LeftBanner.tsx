@@ -5,7 +5,7 @@ import { FadeIn } from "./FadeIn";
 
 const LeftBanner = () => {
   const [text] = useTypewriter({
-    words: ["Professional Administrator.", "Automation Specialist.", "DevOps Professional."],
+    words: ["Professional Admin.", "Automation Specialist.", "DevOps Professional."],
     loop: true,
     typeSpeed: 20,
     deleteSpeed: 10,
@@ -23,7 +23,7 @@ const LeftBanner = () => {
           <Cursor cursorStyle="|" cursorColor="#ff014f" />
         </h2>
         <p className="text-base font-bodyFont leading-6 tracking-wider">
-        Dynamic and detail-oriented Linux Systems Admin with over six years of experience in automating, configuring, and optimizing cloud and network operations. 
+        Dynamic and detail-oriented Linux Systems Admin with over nine years of experience in automating, configuring, and optimizing cloud and network operations. 
         Proficient in orchestrating deployments and fostering innovations to improve system reliability and performance. 
         Adept in leading cross-functional teams to achieve organizational goals and championing the adoption of DevOps best practices.
         </p>
@@ -40,7 +40,7 @@ const LeftBanner = () => {
               </span>
             </a>
             <a
-              href="https://www.linkedin.com/"
+              href="https://www.linkedin.com/in/oscar-tejada04"
               target="_blank"
             >
               <span className="bannerIcon">
