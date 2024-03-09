@@ -22,6 +22,7 @@ const Projects = () => {
             des="Automated deployment and configuration of multi-tier web application environment, streamlining deployments and reducing manual efforts. 
             combining infrastructure automation with application deployment."
             src={ansibleproject}
+            
           />
           <ProjectsCard
             title="Infrastructure as Code (IaC) with Terraform"
@@ -58,5 +59,6 @@ const Projects = () => {
     </section>
   );
 };
+
 
 export default Projects;
