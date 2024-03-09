@@ -13,10 +13,10 @@ const ContactLeft = () => {
       <div className="flex flex-col gap-4">
         <h3 className="text-3xl font-bold text-white">Oscar Tejada</h3>
         <p className="text-lg font-normal text-gray-400">
-          Linux Systems Admin/Devops Professional
+          Linux Systems Administrator
         </p>
         <p className="text-base text-gray-400 tracking-wide">
-         Feel free to connect with me for collaboration, opportunities, or any queries related to Linux Systems Administration and DevOps.
+         Feel free to connect with me for collaboration, opportunities, or any queries related to Linux Systems Administration.
         </p>
         <p className="text-base text-gray-400 flex items-center gap-2">
           Phone: <span className="text-lightText">(347) 465-3936</span>

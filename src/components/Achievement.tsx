@@ -15,24 +15,32 @@ const Achievement = () => {
         </div>
         <div className="mt-6 lgl:mt-14 w-full h-[1000px] border-l-[6px] border-l-black border-opacity-30 flex flex-col gap-10">
         <ResumeCard
-            title="DevOps Specialist"
-            subTitle="Rapid7 (2021 - 2023)"
+            title="Linux Administrator / VMware Administrator"
+            subTitle="Rotech (Mar. 2023 – Present)"
             result="Success"
-            des="Streamlined CI/CD pipelines, increasing deployment frequency by 40%. Focused on automating and optimizing the company's development and deployment processes. Enhanced collaboration and productivity by working closely with development teams to implement DevOps best practices."
+            des="Successfully deployed and configured SFTP servers on Redhat 8/9 distribution, enhancing file transfer security.
+            Streamlined server configuration to STIG benchmarks using Oscap and Ansible, improving security compliance.
+            Automated daily tasks using Ansible, leading to increased operational efficiency.
+            Played a pivotal role in maintaining and optimizing RHEL systems across zLinux and VMware platforms"
           />
 
           <ResumeCard
-            title="Linux Systems Administrator"
-            subTitle="Cognixia (2019 - 2021)"
+            title="Linux Systems Administrator / Engineer"
+            subTitle="Highmark (Sep. 2017 - Mar. 2023)"
             result="Success"
-            des="Enhanced system security and reduced downtime by 30%. Managed and optimized Linux server environments for high availability and security. Implemented automation scripts for system maintenance and spearheaded a team for migrating services to cloud-based solutions, improving scalability and cost-efficiency."
+            des="Successfully deployed and configured SFTP servers on Redhat 8/9 distribution, enhancing file transfer security.
+            Streamlined server configuration to STIG benchmarks using Oscap and Ansible, improving security compliance.
+            Automated daily tasks using Ansible, leading to increased operational efficiency.
+            Played a pivotal role in maintaining and optimizing RHEL systems across zLinux and VMware platforms"
           />
 
           <ResumeCard
-            title="Linux Administrator"
-            subTitle="Zebra Medical Vision (2017 - 2019)"
+            title="Tier 2 Help Desk Specialist"
+            subTitle="Stoltenberg Consulting (Jan. 2015 - Sep. 2016)"
             result="Success"
-            des="Automated deployment process, improving system performance. Oversaw daily operations of Linux servers, developed and maintained backup strategies for critical data. Collaborated in the integration of new technologies and systems, playing a key role in the transition to a more robust and scalable infrastructure."
+            des="Effectively resolved complex technical issues, earning a reputation for excellent customer service.
+            Played a key role in upgrading and migrating technical infrastructure, including servers and network equipment.
+            Managed end-user accounts using Active Directory, ensuring efficient user access and security"
           />
 
           <ResumeCard
